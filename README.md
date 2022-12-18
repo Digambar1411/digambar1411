@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digambar Deshawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **MERN stack Development**
 
 - 👨‍💻 All of my projects are available at [https://digambar-deshawal-portfolio.netlify.app/](https://digambar-deshawal-portfolio.netlify.app/)
 
