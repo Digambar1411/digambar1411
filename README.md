@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack Development**
 
-- 👨‍💻 All of my projects are available at [https://digambar-deshawal-portfolio.netlify.app/](https://digambar-deshawal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available [https://digambar-portfolio.netlify.app/](https://digambar-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://digambar.hashnode.dev/](https://digambar.hashnode.dev/)
 
