@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digambar Deshawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m **A Frontend Developer**
+<h3 align="center">A passionate frontend developer from Belgaum</h3>
 
 - 👨‍💻 All of my projects are available [https://digambar-portfolio.netlify.app/](https://digambar-portfolio.netlify.app/)
 
