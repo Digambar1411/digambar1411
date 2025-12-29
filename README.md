@@ -9,9 +9,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=digambar1411&show_icons=true&locale=en&layout=compact" alt="digambar1411" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digambar1411&" alt="digambar1411" /></p>
